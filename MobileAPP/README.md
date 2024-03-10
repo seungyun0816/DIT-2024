@@ -3,5 +3,5 @@
 >프로젝트 개요
 >  >1주차 주제 선정
 - - -
-#강의 계획서
+#강의계획서
 <img src="mobilAppReport.jpg.jpg" width="60%" alt="report"></img>
