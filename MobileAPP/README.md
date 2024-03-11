@@ -4,4 +4,4 @@
 >  >1주차 주제 선정
 - - -
 ## 강의 계획서
-<img src="mobilAppReport.jpg.jpg" width="60%" alt="report"></img>
+<img src="mobilAppReport.jpg" width="60%" alt="report"></img>
