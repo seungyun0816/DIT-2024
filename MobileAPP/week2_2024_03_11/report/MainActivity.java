@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void onClicked(View v) {
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/seungyun0816/DIT-2024/tree/main/MobileAPP/week2"));
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/seungyun0816/DIT-2024/tree/main/MobileAPP/week2_2024_03_11"));
         startActivity(intent);
     }
 }
