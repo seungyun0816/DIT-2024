@@ -1,6 +1,6 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="UTF-8"%>
-<%@ page import="java.time.*" %>
+<%@ page language="java" contentType="text/html; charset=EUC-KR"	//페이지의 설정을 정의하기
+    pageEncoding="UTF-8"%>		
+<%@ page import="java.time.*" %> 					//java.time 패키지 불러오기
 <!DOCTYPE html>
 <html>
 <head>
