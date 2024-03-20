@@ -31,3 +31,7 @@ Python문자열의 특징
   in,not in
     sequene에 특정한 값이 들어있는지 확인 하고 ture,false를 출력
     'a' in b >>> b에 a가 포함되어있는지를 판별
+
+    list의 경우 각 값 안에 들어있는 값은 판별하지 않는다.
+    a in ['abc','def','ghi'] >>> false
+    abc in ['abc','def','ghi'] >>> true
