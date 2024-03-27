@@ -9,6 +9,15 @@ Python 컬렉션 자료형
   -list에 들어갈 값들은 [순서가 중요하며],[항목이 변경 가능하고],[항목이 중복되어도 된다]
   -들어간 값들은 index[]로 접근 가능하다
 
+  list는 객체형식이기 떄문에 a = b를 하였을 때 b list에 있는 값을 변경하면 a 또한 변경된다
+  두가지 변수명(a,b)는 별개의 list가 아닌 하나의 list를 가르키고 있는 것이다
+
+  list method
+  dir(name)형식으로 변수의
+  append()값 추가, clear()비우기, copy()복사, count(var)var갯수 세기, pop(index)값을 return및 제거
+  reverse()값을 거꾸로 정렬,sort()값을 순서대로 정렬
+
 2.tuple
 3.set
 4.dictionary
+
